@@ -2,7 +2,7 @@
 
 [![Track: Robotics & Gaming — Interactive AI](https://img.shields.io/badge/Track-Robotics%20%26%20Gaming%20--%20Interactive%20AI-blue)](https://github.com)
 [![Board: Arduino UNO Q](https://img.shields.io/badge/Board-Arduino%20UNO%20Q-teal)](https://github.com)
-[![Status: Open source](https://img.shields.io/badge/Board-Arduino%20UNO%20Q-teal)](https://github.com)
+[![Status: Open source](https://img.shields.io/badge/Status-Open%20source%20Q-teal)](https://github.com)
 **Team:**\
 **Team Members:** Eshansh Singh and Shivanshi Shukla\
 **Institution:** DIT, Dehradun, Uttarakhand \
