@@ -4,9 +4,10 @@
 [![Board: Arduino UNO Q](https://img.shields.io/badge/Board-Arduino%20UNO%20Q-teal)](https://github.com)
 
 **Team:**\
-**Team Members:** Eshansh Singh (Team Leader — Computer Vision, Software &
-System Integration)\ Shivanshi Shukla\
-**Institution:** DIT, Dehradun, Uttarakhand \SRM Institute of Science and
+**Team Members:** Eshansh Singh\
+Shivanshi Shukla\
+**Institution:** DIT, Dehradun, Uttarakhand \
+SRM Institute of Science and
 Technology (SRMIST), Modinagar, Uttar Pradesh\
 **Track:** Robotics & Gaming, Interactive AI\
 **Board:** Arduino UNO Q (Qualcomm® Dragonwing™ QRB2210 + STM32U585)\
