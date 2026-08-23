@@ -2,17 +2,15 @@
 
 [![Track: Robotics & Gaming — Interactive AI](https://img.shields.io/badge/Track-Robotics%20%26%20Gaming%20--%20Interactive%20AI-blue)](https://github.com)
 [![Board: Arduino UNO Q](https://img.shields.io/badge/Board-Arduino%20UNO%20Q-teal)](https://github.com)
-[![Status: Open Source](https://img.shields.io/badge/Status-Open--Source-brightgreen)](https://github.com)
 
-**Team:** [Your Team Name]
+**Team:**\
 **Team Members:** Eshansh Singh (Team Leader — Computer Vision, Software &
-System Integration), Shivanshi Shukla
-**Institution:** DIT, Dehradun, Uttarakhand · SRM Institute of Science and
-Technology (SRMIST), Modinagar, Uttar Pradesh
-**Track:** Arduino Physical AI Challenge India 2026 (Robu.in × Arduino) —
-Robotics & Gaming, Interactive AI
-**Board:** Arduino UNO Q (Qualcomm® Dragonwing™ QRB2210 + STM32U585)
-**Project Status:** Open-source hardware + software framework
+System Integration)\ Shivanshi Shukla\
+**Institution:** DIT, Dehradun, Uttarakhand \SRM Institute of Science and
+Technology (SRMIST), Modinagar, Uttar Pradesh\
+**Track:** Robotics & Gaming, Interactive AI\
+**Board:** Arduino UNO Q (Qualcomm® Dragonwing™ QRB2210 + STM32U585)\
+
 
 ---
 
@@ -74,23 +72,6 @@ See the full Bill of Materials in the project report for details.
   camera's view, partially occluded, moving too fast, poorly lit, or set
   against a complex background. Camera frame rate and processing delay
   also affect how responsive the arm appears.
-
----
-
-## 📁 Repository Structure
-
-```
-interactive-robot-arm-cv/
-├── firmware/
-│   └── arm_controller/
-│       └── arm_controller.ino   # MCU (STM32U585) side — servo/gripper control
-├── app/
-│   ├── main.py                  # MPU (Linux) side — full gesture-control pipeline
-│   ├── arm_bridge.py            # sends servo/gripper commands to the MCU side
-│   └── requirements.txt
-├── LICENSE
-└── README.md
-```
 
 ---
 
@@ -186,7 +167,7 @@ scratch.
 
 ---
 
-## 🙏 Credits & Acknowledgments
+## Credits & Acknowledgments
 
 Built by **Eshansh Singh** and **Shivanshi Shukla** on the **Arduino UNO
 Q** platform, using **MediaPipe** for hand-landmark detection.
